@@ -18,7 +18,7 @@ html {
   font-size: 50px;
   font-weight: 700;
   color: #f48fb1;
-  text-align: center;
+  text-align: left;
   position: absolute;
   top: 50%;
   opacity: 0;
@@ -39,7 +39,7 @@ html {
 }
 .ano_novo > span {
   font-family: "Montserrat", sans-serif;
-  font-size: 175px;
+  font-size: 75px;
   font-weight: 700;
   color: #7a8fe8;
 }
