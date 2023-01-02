@@ -15,12 +15,12 @@ html {
 .feliz {
   width: 100%;
   font-family: "Pacifico", cursive;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   color: #f48fb1;
   text-align: left;
   position: absolute;
-  top: 40%;
+  top: 110%;
   opacity: 0;
   animation: vem_feliz 2s ease-in-out 7s forwards;
 }
