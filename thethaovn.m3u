@@ -1,0 +1,234 @@
+{
+    "name": "Film Sport by ngocdung",
+    "author": "Link được tạo bởi Ng.Dũng",
+    "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
+    "url": "http://gg.gg/thethaovn",
+    "groups": [
+        {
+            "name": "Trình duyệt",
+            "image": "https://fptshop.com.vn/uploads/originals/2020/5/12/637248962237089287_gged.jpg",
+            "stations": [
+                {
+                    "name": "Google",
+                    "url": "https://www.google.com.vn/",
+                    "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"    
+                },
+                {
+                    "name": "phimclc",
+                    "url": "https://phimclc.com/",
+                    "image": "https://img.meta.com.vn/Data/image/2020/06/19/ung-dung-xem-phim-online-al.jpg",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "phimchill",
+                    "url": "https://phimchill.net",
+                    "image": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277__340.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "fsharetv",
+                    "url": "https://fsharetv.co/",
+                    "image": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277__340.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Yeuphimmoiz",
+                    "url": "https://yeuphimmoiz.com/",
+                    "image": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277__340.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "PHIMMOIPLUS.NET",
+                    "url": "https://phimmoiplus.net/",
+                    "image": "https://phimmoiplus.net/media/images/logo.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true" 
+                },
+                {
+                    "name": "TVHAI.ORG",
+                    "url": "http://tvhai.org/",
+                    "image": "https://i.imgur.com/lZGF8XL.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "HDONLINE",
+                    "url": "http://hdo.tv/",
+                    "image": "http://static.hdo.tv/template/frontend/images/logo.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "BILUTVs.net",
+                    "url": "https://bilutvs.net/",
+                    "image": "https://bilutv.org/Theme/images/bilutv-logo-normal.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "DONGPHYM.NET",
+                    "url": "https://dongphym.net/",
+                    "image": "https://media.dongphim.tv/media/image/id/5c921766acc399d72c8b456b_200x",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "PHIMBATHU.xyz",
+                    "url": "https://phimbathu.xyz/",
+                    "image": "https://phimbathu.org/Theme/images/phimbathu-logo.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "HDViet",
+                    "url": "http://movies.hdviet.com/",
+                    "image": "http://t.hdviet.com/v2/css/images/logo.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Vkool",
+                    "url": "http://mv.vkool.net/",
+                    "image": "https://phim.vkool.tv/images/logo.jpg",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "phim7z.tv",
+                    "url": "https://phim7z.tv",
+                    "image": "https://xemphim.plus/static/skin/logo-full.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "phimhay.co",
+                    "url": "https://phimhay.co/",
+                    "image": "https://xemphim.plus/static/skin/logo-full.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "SSPHIM",
+                    "url": "https://www.ssphim.net",
+                    "image": "https://xemphim.plus/static/skin/logo-full.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Phim8z",
+                    "url": "https://www.phim8z.com/",
+                    "image": "",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                }
+            ]    
+        },
+        {
+            "name": "Web Xem thể thao trực tiếp",
+            "image": "https://baodanang.vn/dataimages/202203/original/images1643314_l1.png",
+            "stations": [
+                {
+                    "name": "90phut I",
+                    "url": "https://90phutttttttt.xyz/",
+                    "image": "https://www.iconsdb.com/icons/preview/royal-blue/soccer-3-xxl.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "90phut II",
+                    "url": "https://90phut2.live/",
+                    "image": "https://www.iconsdb.com/icons/preview/soylent-red/soccer-3-xxl.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Web xoilac2",
+                    "url": "https://xoilac2.net/",
+                    "image": "https://www.iconsdb.com/icons/preview/orange/soccer-3-xxl.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Vebo live",
+                    "url": "https://vebo.live/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "90ptvi",
+                    "url": "https://90ptvi.com/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                }
+            ]    
+        },
+        {
+            "name": "Link Acestream",
+            "image": "https://vietadv.com.vn/wp-content/uploads/2021/08/acestream-phan-mem-xem-tivi-hang-dau.jpg",
+            "stations": [
+                {
+                    "name": "ACE ilovethethao",
+                    "url": "https://ilovethethao.com/sopcast-acestream/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "kubetviet",
+                    "url": "https://kubetviet.live/link-sopcast-acestream-003/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "Livetv.ru",
+                    "url": "http://livetv.ru",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.172 Safari/537.36",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+             {
+                    "name": "Pimpletv",
+                    "url": "https://www.pimpletv.ru/en/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.172 Safari/537.36",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                }
+            ]    
+        }        
+    ]
+}
