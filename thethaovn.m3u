@@ -147,7 +147,7 @@
             ]    
         },
         {
-            "name": "Web Xem thể thao trực tiếp",
+            "name": "Xem thể thao trực tiếp",
             "image": "https://baodanang.vn/dataimages/202203/original/images1643314_l1.png",
             "stations": [
                 {
@@ -160,7 +160,7 @@
                 },
                 {
                     "name": "90phut II",
-                    "url": "https://90phut2.live/",
+                    "url": "https://90phutz.live",
                     "image": "https://www.iconsdb.com/icons/preview/soylent-red/soccer-3-xxl.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
                     "playInNatPlayer": "true",
