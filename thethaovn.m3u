@@ -151,15 +151,15 @@
             "image": "https://baodanang.vn/dataimages/202203/original/images1643314_l1.png",
             "stations": [
                 {
-                    "name": "90phut I",
-                    "url": "https://90phutttttttt.xyz/",
+                    "name": "xoilac",
+                    "url": "https://bit.ly/tiengruoi",
                     "image": "https://www.iconsdb.com/icons/preview/royal-blue/soccer-3-xxl.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
                     "playInNatPlayer": "true",
                     "embed": "true"
                 },
                 {
-                    "name": "90phut II",
+                    "name": "90phut",
                     "url": "https://90phutz.live",
                     "image": "https://www.iconsdb.com/icons/preview/soylent-red/soccer-3-xxl.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
@@ -167,8 +167,8 @@
                     "embed": "true"
                 },
                 {
-                    "name": "Web xoilac2",
-                    "url": "https://xoilac2.net/",
+                    "name": "chayluoi",
+                    "url": "https://chayluoi.tv/",
                     "image": "https://www.iconsdb.com/icons/preview/orange/soccer-3-xxl.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
                     "playInNatPlayer": "true",
@@ -184,51 +184,13 @@
                 },
                 {
                     "name": "90ptvi",
-                    "url": "https://90ptvi.com/",
+                    "url": "https://thevalueofsparrows.com",
                     "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
                     "playInNatPlayer": "true",
                     "embed": "true"
                 }
             ]    
-        },
-        {
-            "name": "Link Acestream",
-            "image": "https://vietadv.com.vn/wp-content/uploads/2021/08/acestream-phan-mem-xem-tivi-hang-dau.jpg",
-            "stations": [
-                {
-                    "name": "ACE ilovethethao",
-                    "url": "https://ilovethethao.com/sopcast-acestream/",
-                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
-                    "playInNatPlayer": "true",
-                    "embed": "true"
-                },
-                {
-                    "name": "kubetviet",
-                    "url": "https://kubetviet.live/link-sopcast-acestream-003/",
-                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
-                    "playInNatPlayer": "true",
-                    "embed": "true"
-                },
-                {
-                    "name": "Livetv.ru",
-                    "url": "http://livetv.ru",
-                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.172 Safari/537.36",
-                    "playInNatPlayer": "true",
-                    "embed": "true"
-                },
-             {
-                    "name": "Pimpletv",
-                    "url": "https://www.pimpletv.ru/en/",
-                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.172 Safari/537.36",
-                    "playInNatPlayer": "true",
-                    "embed": "true"
-                }
-            ]    
-        }        
+        }
     ]
 }
