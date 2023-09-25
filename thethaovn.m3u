@@ -151,7 +151,7 @@
             "image": "https://baodanang.vn/dataimages/202203/original/images1643314_l1.png",
             "stations": [
                 {
-                    "name": "xoilac",
+                    "name": "Tieng Ruoi",
                     "url": "https://bit.ly/tiengruoi",
                     "image": "https://www.iconsdb.com/icons/preview/royal-blue/soccer-3-xxl.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
@@ -177,6 +177,14 @@
                 {
                     "name": "Vebo live",
                     "url": "https://vebo.live/",
+                    "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
+                    "playInNatPlayer": "true",
+                    "embed": "true"
+                },
+                {
+                    "name": "8sportlive",
+                    "url": "https://www.8sportlive.com/",
                     "image": "https://img.freeflagicons.com/thumb/football_icon/vietnam/vietnam_640.png",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44",
                     "playInNatPlayer": "true",
